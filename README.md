@@ -9,6 +9,5 @@ I am a data scientist and an IT solution architect with over a decade of experie
 - 👯 I’m looking to collaborate on projects where data science and machine learning can be applied to improve the quality of people’s lives.
 - 🤔 I’m looking for help with **learning more about meta-learning algorithms**.
 - 📫 How to reach me: **[LinkedIn](https://www.linkedin.com/in/kyrawulffert/)**.
+- ⚡ Fun fact: I love trees 🌳 and mountains 🗻.
 <!-- - 💬 Ask me about ...-->
-- ⚡ Fun fact: I love trees 🌳 and mountains 🗻.>
-
